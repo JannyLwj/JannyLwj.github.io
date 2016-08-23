@@ -7,16 +7,16 @@ tags : [Server]
 
 #   Develop Server(Author: Janny)    
 1.	Buy a server        
-    https://my.vultr.com
+    ! https://my.vultr.com
 2.	Link your credit card 
 3.	Install OS
 4.	Install Tomcat  
     Sudo apt-get install tomcat7    
-    Check if serer can be access: Http://IP:8080 in your local machine    
+    Check if serer can be access: ! Http://IP:8080 in your local machine    
 5.	Install java    
     Sudo apt-get default-jdk    
 6.	Install FTP on server    
-    http://note.youdao.com/share/?id=16ac099d964a22e1eee7d8360e383aea&type=note#/    
+    ! http://note.youdao.com/share/?id=16ac099d964a22e1eee7d8360e383aea&type=note#/    
 7.	Update tomcat port    
     Cd /ect/tomcat7/server.xml    
 8.	Update Tomcat server.xml, add context path to FTP folder    
