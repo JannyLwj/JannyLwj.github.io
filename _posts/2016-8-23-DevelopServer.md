@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Lessons
+category : lessons
 tagline: "Supporting tagline"
 tags : [Server]
 ---
