@@ -5,8 +5,8 @@ tagline: "Supporting tagline"
 tags : [Server]
 ---
 
-#  Develop Server(Author: Janny)
-1.	Buy a server      
+#   Develop Server(Author: Janny)    
+1.	Buy a server        
     https://my.vultr.com
 2.	Link your credit card 
 3.	Install OS
