@@ -19,7 +19,7 @@ tags : [Server]
     http://note.youdao.com/share/?id=16ac099d964a22e1eee7d8360e383aea&type=note#/    
 7.	Update tomcat port    
     Cd /ect/tomcat7/server.xml    
-8.	update Tomcat server.xml, add context path to FTP folder    
+8.	Update Tomcat server.xml, add context path to FTP folder    
     Cd /ect/tomcat7/server.xml    
     Vi server.xml    
     Update file as below path:    
