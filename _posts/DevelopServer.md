@@ -1,8 +1,8 @@
 ---
 layout: post
-category : Art
+category : Study
 tagline: "Supporting tagline"
-tags : [傩舞,少年文艺]
+tags : [Server]
 ---
 
 1.	Buy a server
