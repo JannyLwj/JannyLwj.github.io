@@ -16,7 +16,7 @@ tags : [Server]
     <img src="/assets/images/ds4.jpg" alt=" " class="img-responsive" />       
 4.	Install Tomcat     
     Sudo apt-get install tomcat7    
-    Check if serer can be access: <http://IP:8080 in your local machine>        
+    Check if serer can be access: http://IP:8080 in your local machine        
 5.	Install java       
     Sudo apt-get default-jdk        
 6.	Install FTP on server   
