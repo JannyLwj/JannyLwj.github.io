@@ -6,8 +6,8 @@ tags : [Server]
 ---
 
 #   Develop Server(Author: Janny)            
-1.	Buy a server   
-	  <https://my.vultr.com>      
+1.	Buy a server  
+        <https://my.vultr.com>      
 2.	Link your credit card        
 3.	Install OS  
     <img src="/assets/images/ds1.jpg" alt=" " class="img-responsive" />
@@ -27,7 +27,7 @@ tags : [Server]
 8.	Update Tomcat server.xml, add context path to FTP folder    
     Cd /ect/tomcat7/server.xml    
     Vi server.xml    
-    Update file as below path:   
-      <http://www.360doc.com/content/12/0506/07/3446769_208961129.shtml>    
+    Update file as below path:    
+    <http://www.360doc.com/content/12/0506/07/3446769_208961129.shtml>    
 
 
