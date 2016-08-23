@@ -27,7 +27,7 @@ tags : [Server]
 8.	Update Tomcat server.xml, add context path to FTP folder    
     Cd /ect/tomcat7/server.xml    
     Vi server.xml    
-    Update file as below path:    
-    <http://www.360doc.com/content/12/0506/07/3446769_208961129.shtml>    
+    Update file as below path:          
+           <http://www.360doc.com/content/12/0506/07/3446769_208961129.shtml>    
 
 
