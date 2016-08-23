@@ -23,7 +23,7 @@ tags : [Server]
     <http://note.youdao.com/share/?id=16ac099d964a22e1eee7d8360e383aea&type=note#/>    
 7.	Update tomcat port    
     Cd /ect/tomcat7/server.xml  
-    <img src="/assets/images/ds4.jpg" alt=" " class="img-responsive" />
+    <img src="/assets/images/ds5.jpg" alt=" " class="img-responsive" />
 8.	Update Tomcat server.xml, add context path to FTP folder    
     Cd /ect/tomcat7/server.xml    
     Vi server.xml    
