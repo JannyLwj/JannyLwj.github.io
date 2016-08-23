@@ -14,7 +14,7 @@ tags : [Server]
     Check if serer can be access: Http://IP:8080 in your local machine
 5.	Install java
     Sudo apt-get default-jkd
-6.	Install FTP on server
+6.	Install FTP on server:
     http://note.youdao.com/share/?id=16ac099d964a22e1eee7d8360e383aea&type=note#/
 7.	Update tomcat port
     Cd /ect/tomcat7/server.xml
