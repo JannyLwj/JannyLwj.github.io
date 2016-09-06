@@ -6,10 +6,11 @@ tags : [Python]
 ---
 
 #   Python Lesson1(Author: Janny)     
-1.  os模块概述 
+#    os模块概述 
     Python os模块包含普遍的操作系统功能。如果你希望你的程序能够与平台无关的话，这个模块是尤为重要的。(一语中的)
     
-2.  常用方法    
+#    常用方法  
+    
 os.name    
     输出字符串指示正在使用的平台。如果是windows 则用'nt'表示，对于Linux/Unix用户，它是'posix'。
     
