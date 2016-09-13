@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "Supporting tagline"
-tags : [Server]
+tags : [Python]
 ---
 
 #   Python-the first program:  Uninstall CPS(Suthor:Janny)
