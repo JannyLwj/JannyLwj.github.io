@@ -7,8 +7,8 @@ tags : [Python]
 
 #   Python Tkinder模块(Author: Janny)           
 #  Tkinder模块是在学习写计算器的时候接触到的，是TK图形用户界面工具包标准的Python借口，轻量级的跨平台图形用户界面开发工具。    
-   1.	Calculator 代码见：https://github.com/JannyLwj/Calculator/blob/master/Calculator.py    
-   2.	Tkinter练习代码见：https://github.com/JannyLwj/TestTkinder    
+   1.	Calculator 代码见：  <https://github.com/JannyLwj/Calculator/blob/master/Calculator.py>    
+   2.	Tkinter练习代码见：  <https://github.com/JannyLwj/TestTkinder>    
    3.	今天学习Tkinter中的events事件：     
 
    Binding：绑定事件和事件处理函数    
@@ -25,9 +25,7 @@ tags : [Python]
    （3）modifier可以增加一些组合操作，例如shift 或 control；    
    （4）detail描述具体的key，对于鼠标而言指代的哪个键，1 for button 1, 2 for button 2, 3 for button 3；    
     下面是一个例子：    
-    "<Button-1>"：鼠标的第一个键       
-    "<KeyPress-H>"：键盘的H键    
-    "<Control-Shift-KeyPress-H>"：键盘的control-shift-H键       
+   <img src="/assets/images/event.jpg" alt=" " class="img-responsive" />       
         
             
     Event type：事件类型    
