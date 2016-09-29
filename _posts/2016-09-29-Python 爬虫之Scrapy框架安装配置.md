@@ -13,8 +13,7 @@ tags : [Python]
 2.安装pywin32    
     在windows下，必须安装pywin32
     安装地址：<http://sourceforge.net/projects/pywin32/>    
-    下载对应版本的pywin32，直接双击安装即可，安装完毕之后验证：
- 
+    下载对应版本的pywin32，直接双击安装即可，安装完毕之后验证： 
     在python命令行下输入
     import win32com
     如果没有提示错误，则证明安装成功    
@@ -24,8 +23,7 @@ tags : [Python]
     下载好之后，选中该文件所在路径，执行下面的命令     
     python get-pip.py    
     执行命令后便会安装好pip，并且同时，它帮你安装了setuptools    
-    安装完了之后在命令行中执行    
- 
+    安装完了之后在命令行中执行   
     pip --version    
     如果提示如下，说明就安装成功了，如果提示不是内部或外部命令，那么就检查一下环境变量有没有配置好吧，有两个路径。    
     <img src="/assets/images/pip.jpg" alt=" " class="img-responsive" />        
@@ -40,7 +38,8 @@ tags : [Python]
     直接执行如下命令     
     pip install lxml    
     就可完成安装，如果提示 Microsoft Visual C++库没安装，则点我下载支持的库。    
-    安装lxml时，一直报错：unable to find vcvarsall.bat 文件，这里我搞了好久，先去下载了wheel，再下载“lxml-3.6.4-cp27-cp27m-win32.whl”，安装。报错unable to find zip file.    
+    安装lxml时，一直报错：unable to find vcvarsall.bat 文件，这里我搞了好久，先去下载了wheel，再下载“lxml-3.6.4-cp27-cp27m-win32.whl”，安装。报错unable to find zip file. 报错如下：    
+     <img src="/assets/images/error.jpg" alt=" " class="img-responsive" />     
     最后还是想把报错解决掉，到处查找资料。最终在<http://blog.csdn.net/secretx/article/details/17472107>查到最终解决方法。     
     
 6.安装Scrapy        
