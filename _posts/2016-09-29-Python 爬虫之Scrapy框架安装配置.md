@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [Python]
 ---
 
-#   Python爬虫之Scrapy框架安装配置(Suthor:Janny)
+#   Python爬虫之Scrapy框架安装配置(Author:Janny)
 1.安装Python     
    添加如下变量到环境变量D:\python2.7.7;  D:\python2.7.7\Scripts
    配置好了之后，在命令行中输入 python –version，如果没有提示错误，则安装成功
