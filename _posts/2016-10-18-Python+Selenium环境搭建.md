@@ -22,9 +22,11 @@ from selenium import webdriver
 报错，需要driver    
 Webdriver需要启动不同的driver来启动浏览器    
     Chromdriver: chromedriver.exe         
-    <http://chromedriver.storage.googleapis.com/index.html>        
-    IE: IEDriverServer.exe       
-    <http://selenium-release.storage.googleapis.com/index.html>        
+    <http://chromedriver.storage.googleapis.com/index.html>     
+    
+    IE: IEDriverServer.exe                                
+    <http://selenium-release.storage.googleapis.com/index.html>  
+    
     Firefox: geckodriver.exe        
     https://github.com/mozilla/geckodriver/releases/        
 然后就能运行起来了        
