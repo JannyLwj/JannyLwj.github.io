@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [Python, Selenium]
 ---
 
-#   Python+Selenium(Author: Janny)   
+#   Python+Selenium环境搭建(Author: Janny)   
 1. 前提        
 安装好Python（我这里用的Pycharm）,安装好pip，并将python和pip的路径添加的环境变量的PATH下面：    
 <img src="/assets/images/web1.jpg" alt=" " class="img-responsive" />    
