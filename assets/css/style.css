@@ -65,8 +65,9 @@ h1{
 	position:relative;
 }
 .facts {
+	width:600px;
 	padding: 3em;
-    background: #fff;
+    	background: #fff;
 	box-shadow: #1d7aa0 1px 1px, #1d7aa0 2px 2px, #1d7aa0 3px 3px, #1d7aa0 4px 4px,
 				#1d7aa0 5px 5px, #1d7aa0 6px 6px, #1d7aa0 7px 7px, #1d7aa0 8px 8px,
 				#1d7aa0 9px 9px, #1d7aa0 10px 10px, #1d7aa0 11px 11px, #1d7aa0 12px 12px,
