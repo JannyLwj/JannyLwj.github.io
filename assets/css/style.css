@@ -65,7 +65,7 @@ h1{
 	position:relative;
 }
 .facts {
-	padding: 3em;
+	padding: 6em;
     background: #fff;
 	box-shadow: #1d7aa0 1px 1px, #1d7aa0 2px 2px, #1d7aa0 3px 3px, #1d7aa0 4px 4px,
 				#1d7aa0 5px 5px, #1d7aa0 6px 6px, #1d7aa0 7px 7px, #1d7aa0 8px 8px,
@@ -95,7 +95,7 @@ div#horizontalTab {
 	color:#fff;
     font-size: 1em;
     cursor: pointer;
-    padding:25px 100px 18px;
+    padding:25px 100px 50px;
     display: inline-block;
     margin: 0;
     list-style: none;
